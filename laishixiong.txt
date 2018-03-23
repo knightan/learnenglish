@@ -8,3 +8,7 @@ He is a man who I think is nice.
 He is a man I think him to be nice.
 
 15定语从句可化为不定式短语
+关系代词所引导的定语从句中，若该关系代词之前有介词时，可将该从句变换成不定式短语。
+He has no house in which he can live .
+He has no house in which to live .
+He has no house to live in.
