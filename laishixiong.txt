@@ -24,3 +24,31 @@ c．否则该关系代词所有格之前一定要有介词，该介词亦可移�
 whose + n . = the + n . + of which = of which + the + n .
 限制性定语从句与非限制性定语从句
 与关系代词一样，关系代词所有格之前若无逗号，即为限制性定语从句；若有逗号，即为非限制性定语从句。
+
+关系副词
+
+1．关系副词的种类：
+where ( = in which , on which , at which )
+when ( = in which , on which , at which )
+why ( = for which )
+how ( = in which )
+2．关系副词的功能
+where 用以修饰表地方的名词；
+when 用以修饰表时间的名词；
+why 用以修饰 the reason ;
+但how 和the way 只能用其中之一
+3．where的用法；
+where引导的定语从句只用来修饰表地方的名词。我们在初中时已学到，表大地方（如城市、国家、区域）时，介词要用in；表建筑物（如车站、商店、银行等）时，介词要用at；表内部（在⋯ ⋯之内）时，介词要用in；表外在（在⋯ ⋯上面）时，介词要用on 。因此，关系副词where可等于in which 、 on which 、 at which 。
+4 . When的用法；
+when所引导的定语从句只用以修饰表时间的名词。我们已知，表日子时，介词要用on（如on Sunday , on Dec . 21 )；表年、月或一段时间时，介词要用in（如in July 、 in 1981 、 in those days )；表几时几刻时，介词要用at（如at 8 o'clock）。
+5 . why的用法
+why只用以修饰the reason（理由），系由for which变化而成。
+6 . how的用法：
+how只用以修饰the way，系由in which变化而成。
+7．关系副词使用要点：
+a．在限定修饰的定语从句中除where以外，when及why均可省略而how则一定予以省略。
+b．不过where 、 when 、 why 、 how所修饰的名词若置于be动词之后作表语时，我们亦可省略该名词而保留关系副词。
+c , where 、 when 、 why 、 how亦可视为疑问代词，引导名词性从句，此时可作及物动词的宾语（见第一章）。
+d . where亦可作副词连接词等于in the place where 。
+e . 一...就... the moment ( when ) ⋯ = the instant ( when）⋯= the minute ( when）⋯ = as soon as
+f．偶而在口语或文章中，我们会听到或见到有些人用that取代when , why当关系副词使用，唯这并非常态用法，仅列数例，供同学参考。记住，严谨的写作不可用that当作关系副词使用。
