@@ -12,3 +12,15 @@ He is a man I think him to be nice.
 He has no house in which he can live .
 He has no house in which to live .
 He has no house to live in.
+
+关系代词所有格
+关系代词所有格的功能
+I like that house, whose location looks good to me .
+关系代词所有格使用三原则
+a．关系代词所有格之前要有先行词（即名词或代词）;
+b．该关系代词所有格之后的名词要作定语从句中的主语或宾语；
+c．否则该关系代词所有格之前一定要有介词，该介词亦可移至定语从句句尾。
+取代whose的结构
+whose + n . = the + n . + of which = of which + the + n .
+限制性定语从句与非限制性定语从句
+与关系代词一样，关系代词所有格之前若无逗号，即为限制性定语从句；若有逗号，即为非限制性定语从句。
