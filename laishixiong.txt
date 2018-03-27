@@ -73,6 +73,7 @@ He is arrogant，which attitude I am sick of .
 代替人：
 whoever = anybody who
 whomever = anybody whom
+用who或者whom依据的是who和whom在从句中起的作用，如果在从句中做主语就用who做宾语就用whom
 代替人或物：
 whichever(三者以上）= any one which/who
 whichever(二者）= either which/who
@@ -80,12 +81,34 @@ whichever(二者）= either which/who
 what = the thing(s) which/ who
 whatever = anything which
 2 . whoever的用法；
+a．先视whoever为两个词，即：anybody who :
+b . anybody是代词，可在主句中当作主语或宾语；who为关系代词，引导定语从句，并在该从句中作主语。
 3 . whomever的用法：
 4 . whichever的用法：
+There are many books here . You may take whichever you like .
 5 . what的用法：
+可视为the thing/ things which , 通常译成“所...的东西” 。
+1）前面不可有先行词（名词）;
+2）将what视为the thing /things which ;
+3）which在所引导的定语从句中可作主语、宾语或在be动词后作表语。
 6 . whatever的用法：
 7．加油站：
 8 . whatever及whoever亦可作副词连接词：
+	no matter what（不论什么）或no matter who（不论谁）
+	同学要注意的是whatever或whoever作副词连接词时，所引导的状语从句与主句中间有逗号相隔。而作复合关系代词时，则无逗号相隔。
+		Whatever he says is a lie.
+		Whatever he says, it is a lie.
 9 . however有两种词性：
+	a．连接性副词，然而
+	b．副词连接词，= however
+	However hard he works, I don't respect him.
 10 . whether的用法：
+	a．引导状语从句，有逗号相隔
+		whether he is rich, it doesn't matter.
+	b．引导名词性从句，无逗号相隔
+		Whether he is rich doesn't matter.
 11 . however的特殊句型：
+	however作副词连接词所引导的状语从句中，主语之后若含有飞e动词十形容词”时，同学要特别注意下列结构变化：
+		However poor he is, he doesn't want anyone to help him.
+		However poor he may be, he doesn't want ...
+		Be he ever so poor, he doesn't want...
