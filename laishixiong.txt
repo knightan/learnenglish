@@ -129,10 +129,23 @@ There are many books here . You may take whichever you like .
 				He is a better student than you (are).
 		4. as = as + the十前面的名词＋关系代词( who、whom、which )
 			a. such + n. + as...
+				主语
+					I don't like such a man as tells lies.
+				宾语
+					I respect such an honest man as you describe.
+				be动词后的表语（通常省略be动词）
+					In my company there is not such a man as David(is).
 			b. the same + n. + as
+				同such + n. + as
 			c. as + adj. + n. + as
+				同such + n. + as
 		5. " such + n . ”之后绝不可用like（像）加以修饰：
+			Such a man as(the man that ) he (is) is bad.
 		6．比较“ the same...as ⋯ ”与“ the same ⋯ that ⋯ ”的不同
+			the same ... as ... 和。。。相同的。。。（两个人或物）
+				I have the same book as he is reading.
+			the same ... that ... 就是同一个
+				I borrowed the same book that he borrowed last week.
 		7. as可代替主句：
 		8. 只能与单数可数名词使用的结构
 		9．数量词不受限：
